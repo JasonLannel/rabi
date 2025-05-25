@@ -1,0 +1,4 @@
+[submodule "src/compute"]
+	path = src/compute
+	url = git@github.com:LuisaGroup/LuisaCompute.git
+	branch = stable
